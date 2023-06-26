@@ -3,6 +3,11 @@ body {
     color: white;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
 #logo {
     max-width: 200px;
     max-height: 200px;
