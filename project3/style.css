@@ -19,6 +19,17 @@ header {
     width: 200px;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 #bandpic {
-    max-width: 1860px;
+    max-width: 1600px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
 }
