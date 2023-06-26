@@ -1,6 +1,7 @@
 body {
     background-color: #070707;
     color: white;
+    font-family: sans-serif;
 }
 
 header {
@@ -17,6 +18,7 @@ header {
     display: flex;
     justify-content: space-around;
     width: 200px;
+    list-style-type: none;
 }
 
 main {
@@ -28,6 +30,7 @@ main {
 #bandpic {
     max-width: 1600px;
 }
+
 
 a {
     text-decoration: none;
