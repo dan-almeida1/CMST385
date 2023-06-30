@@ -56,3 +56,7 @@ a {
     text-decoration: none;
     color: #ffffff;
 }
+
+.poster {
+    max-width: 600px;
+}
