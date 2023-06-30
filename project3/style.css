@@ -58,5 +58,16 @@ a {
 }
 
 .poster {
-    max-width: 600px;
+    max-width: 500px;
+}
+
+.news {
+    display: flex;
+    padding: 8px;
+    margin: 15px;
+    gap: 15px;
+}
+
+.tickets {
+    color: #FFDB58;
 }
