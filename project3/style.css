@@ -32,6 +32,7 @@ main {
 
 #bandpic {
     max-width: 1600px;
+    flex-shrink: 1;
 }
 
 #music {
