@@ -9,6 +9,10 @@ header {
     justify-content: space-between;
 }
 
+footer {
+    text-align: center;
+}
+
 #logo {
     max-width: 200px;
     max-height: 200px;
@@ -70,3 +74,4 @@ a {
 .tickets {
     color: #FFDB58;
 }
+
