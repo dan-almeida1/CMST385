@@ -67,6 +67,8 @@ iframe {
     border: 0px none transparent;
     padding: 0px;
     overflow: hidden;
+    width: 350px; 
+    height: 753px;
 }
 
 a {
