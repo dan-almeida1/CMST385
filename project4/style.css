@@ -1,0 +1,18 @@
+#menu {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.item {
+    background-color: gray;
+    max-width: 200px;
+    margin: 5px;
+    padding: 5px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    background-color: #2ba783;
+}
