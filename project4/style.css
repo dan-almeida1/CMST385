@@ -19,7 +19,12 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 8px;
-    color: #d4c395;
+    color: #ffffff;
+}
+
+header > ul > li > a {
+    text-decoration: none;
+    color: #ffffff
 }
 
 #logo {
