@@ -1,13 +1,24 @@
+@font-face {
+    font-family: logoFont;
+    src: url(KomikaTitle.ttf)
+}
+
 body {
     background-color: #f9f1dc;
     font-family: sans-serif;
 }
 
 header {
+    background-color: #dc6942;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 8px;
 }
+
+#logo {
+    font-family: logoFont;
+} 
 
 #menu {
     display: grid;
