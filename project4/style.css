@@ -49,6 +49,11 @@ footer {
     justify-content: space-between;
     padding: 16px;
     background-color: #2ba783;
+    color: #ffffff;
+}
+
+.foot {
+    text-align: center;
 }
 
 ul {
