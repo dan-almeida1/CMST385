@@ -1,13 +1,22 @@
+body {
+    background-color: #f9f1dc;
+    font-family: sans-serif;
+}
 #menu {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
 
+.category {
+    padding: 8px;
+}
+
 .item {
-    background-color: gray;
-    max-width: 200px;
+    background-color: #d4c395;
+    max-width: 250px;
     margin: 5px;
     padding: 5px;
+    border-radius: 8%;
 }
 
 footer {
@@ -15,4 +24,19 @@ footer {
     justify-content: space-between;
     padding: 16px;
     background-color: #2ba783;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+li {
+    padding: 5px;
+}
+
+li > a {
+    text-decoration: none;
 }
