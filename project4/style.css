@@ -31,6 +31,12 @@ header > ul > li > a {
     font-family: logoFont;
 } 
 
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+
 #menu {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
@@ -55,6 +61,9 @@ footer {
     padding: 16px;
     background-color: #2ba783;
     color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 .foot {
