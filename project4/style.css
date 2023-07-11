@@ -68,3 +68,16 @@ li > a {
     font-family: logoFont;
     font-size: 36px;
 }
+
+table, th, td {
+    padding: 8px;
+    border-radius: 8%;
+}
+
+table {
+    border-radius: 8%;
+}
+
+th, td {
+    background-color: #d4c395;
+}
