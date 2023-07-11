@@ -2,6 +2,13 @@ body {
     background-color: #f9f1dc;
     font-family: sans-serif;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 #menu {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
