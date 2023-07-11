@@ -36,10 +36,10 @@ header > ul > li > a {
     min-height: 100vh;
 }
 
-
 #menu {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
+    padding-bottom: 100px;
 }
 
 .category {
@@ -58,12 +58,19 @@ header > ul > li > a {
 footer {
     display: flex;
     justify-content: space-between;
-    padding: 16px;
     background-color: #2ba783;
     color: #ffffff;
     position: absolute;
     bottom: 0;
     width: 100%;
+}
+
+#address {
+    padding: 8px;
+}
+
+#hours {
+    padding: 8px;
 }
 
 .foot {
