@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 @font-face {
     font-family: logoFont;
     src: url(KomikaTitle.ttf)
@@ -14,6 +19,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 8px;
+    color: #d4c395;
 }
 
 #logo {
@@ -37,6 +43,7 @@ header {
     border-radius: 8%;
 }
 
+
 footer {
     display: flex;
     justify-content: space-between;
@@ -47,7 +54,7 @@ footer {
 ul {
     list-style-type: none;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-around;
     
 }
 
@@ -57,4 +64,7 @@ li {
 
 li > a {
     text-decoration: none;
+    color: #dc6942;
+    font-family: logoFont;
+    font-size: 36px;
 }
