@@ -77,3 +77,11 @@ table, th, td {
 th, td {
     background-color: #d4c395;
 }
+
+#toppings {
+    text-align: center;
+}
+
+.price {
+    text-align: right;
+}
