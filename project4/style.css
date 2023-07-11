@@ -36,7 +36,7 @@ header {
 }
 
 .item {
-    background-color: #d4c395;
+    background-color: #efe6cf;
     max-width: 250px;
     margin: 5px;
     padding: 5px;
@@ -75,7 +75,7 @@ table, th, td {
 }
 
 th, td {
-    background-color: #d4c395;
+    background-color: #efe6cf;
 }
 
 #toppings {
