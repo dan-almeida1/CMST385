@@ -111,3 +111,16 @@ th, td {
 .bold {
     font-weight: bold;
 }
+
+#mainindex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+#herotext {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
