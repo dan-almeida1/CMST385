@@ -62,7 +62,7 @@ li {
     padding: 5px;
 }
 
-li > a {
+#menunav > li > a {
     text-decoration: none;
     color: #dc6942;
     font-family: logoFont;
@@ -71,10 +71,6 @@ li > a {
 
 table, th, td {
     padding: 8px;
-    border-radius: 8%;
-}
-
-table {
     border-radius: 8%;
 }
 
